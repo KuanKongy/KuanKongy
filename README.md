@@ -1,5 +1,4 @@
-# toy_ds_project
-
-project creation date: October 7th
-
-author: Le Dinh Nam Khanh
+- 👋 Hi, I’m KuanKongy, 2rd year student at UBCV
+- 👀 I’m interested in building all kind of stuff
+- 🌱 I’m currently learning new languages and frameworks
+- ✨ Currently focused on backend
