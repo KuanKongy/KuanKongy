@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KuanKongy, 2rd year student at UBCV
+- 👋 Hi, I’m KuanKongy, 3rd year student at UBCV
 - 👀 I’m interested in building all kind of stuff
 - 🌱 I’m currently learning new languages and frameworks
 - ✨ Currently focused on backend
